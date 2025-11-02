@@ -1,0 +1,75 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+*.egg
+*.log
+*.sqlite3
+*.db
+*.env
+.env.*
+*.coverage
+.coverage.*
+.cache/
+.pytest_cache/
+.mypy_cache/
+.vscode/
+.idea/
+.DS_Store
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# === Node.js / MERN Stack ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+build/
+tmp/
+temp/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# === React ===
+*.tsbuildinfo
+.cache/
+.eslintcache
+coverage/
+*.map
+
+# === MongoDB ===
+dump/
+*.mongodb
+
+# === Misc ===
+*.swp
+*.swo
+*.bak
+*.orig
