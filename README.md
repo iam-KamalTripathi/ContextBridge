@@ -2,7 +2,7 @@
 
 Bridge conversation contexts between ChatGPT, Claude, Gemini, Copilot, and Grok.
 
-## 🌐 [Live Demo & Download → context-bridge-nu.vercel.app]
+## 🌐 https://contextbridge-ten.vercel.app/
 
 https://context-bridge-nu.vercel.app/
 
